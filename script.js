@@ -21,7 +21,7 @@ setInterval(actualizarCuentaAtras, 1000);
 
 function copiarIBAN() {
 
-    navigator.clipboard.writeText("ES00 0000 0000 0000 0000 0000");
+    navigator.clipboard.writeText("ES2220803512713040052990");
 
-    alert("¡Número de cuenta copiado!");
+    alert("¡IBAN copiado al portapapeles!");
 }
