@@ -259,3 +259,20 @@ iframe{
 .evento p{
     font-size:20px;
 }
+
+#formulario{
+    padding:80px 20px;
+    background:rgba(255,255,255,.75);
+    backdrop-filter:blur(8px);
+}
+
+#formulario iframe{
+    width:100%;
+    max-width:800px;
+    height:1300px;
+    display:block;
+    margin:40px auto 0;
+    border:none;
+    border-radius:20px;
+    background:white;
+}
