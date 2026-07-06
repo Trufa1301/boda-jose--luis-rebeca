@@ -17,12 +17,10 @@ min-height:100vh;
 display:flex;
 justify-content:center;
 align-items:center;
+  text-align:center;
 padding:40px 20px;
-background:transparent;
-url("fondo.JPG");
-background-size:cover;
-background-position:center;
-background-repeat:no-repeat;
+  
+background:none
 }
 
 .contenido{
