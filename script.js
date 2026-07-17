@@ -1,5 +1,5 @@
 
-const fechaBoda = new Date(2026, 10, 24, 11, 30, 0);
+const fechaBoda = new Date(2026, 9, 24, 11, 30, 0);
 
 function actualizarCuentaAtras() {
     const ahora = new Date();
